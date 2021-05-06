@@ -1,4 +1,6 @@
-# Spring bootでWebアプリケーションを最速立ち上げするデモプロジェクト
+# demo
+
+## Spring bootでWebアプリケーションを最速立ち上げするデモプロジェクト
 
 - ビルドツール:Maven
 - Javaバージョン:12
